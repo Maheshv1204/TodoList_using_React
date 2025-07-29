@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# TodoList_using_React
+A simple and responsive To-Do List web application built with ReactJS. It allows users to dynamically add and delete tasks with a clean, minimal UI. The app uses React hooks (useState) for state management and provides a smooth user experience
+
+>>>>>>> 67c7ea0c6c9e0bc3c94a878ff94a63d14a1c38b4
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
